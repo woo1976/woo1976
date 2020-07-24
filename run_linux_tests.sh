@@ -1,0 +1,2 @@
+echo "Run linux tests"
+
